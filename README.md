@@ -13,7 +13,6 @@ This specific firmware configuration includes the following features:
 * **Keyboard:** Urchin 34-Key Split (Designed by Duckyb, grazie).
 * **MCU:** nice! nano v2 / nRF52840.
 * **Dongle:** can be built with and without a dongle.
-* **Layouts:** Colemak-DH alpha layer, based on Miryoku layout. Further details below.
 ---
 
 ## 💻 Keymap Layers
